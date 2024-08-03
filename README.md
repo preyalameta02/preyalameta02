@@ -10,7 +10,7 @@
 
 ### :woman_technologist: &nbsp;About Me:
 - I am @preyalameta02, a senior in the department of computer science engineering at BIT Mesra. I am a keen learner and a passionate self-taught full stack software developer. Enhancing skills in the field of programming.
-- Currently I'm working as a Software Developer 1 at OML.
+- Currently I'm working as a Software Developer at OML.
 - I usually handle backend services in GO-lang and Python.
 - I’m confident in my data structures and algorithms skills, apart from exploring new regimes in the field of developemnt.
 - I have interned at GEP Solutions.
