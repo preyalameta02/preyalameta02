@@ -10,8 +10,10 @@
 
 ### :woman_technologist: &nbsp;About Me:
 - I am @preyalameta02, a senior in the department of computer science engineering at BIT Mesra. I am a keen learner and a passionate self-taught full stack software developer. Enhancing skills in the field of programming.
+- Currently I'm working as a Software Developer 1 at OML.
+- I usually handle backend services in GO-lang and Python.
 - I’m confident in my data structures and algorithms skills, apart from exploring new regimes in the field of developemnt.
-- I have interned in GEP Solutions and bagged a PPO offer recently. If you wish to collaborate, just contact me 😄
+- I have interned at GEP Solutions.
 - <a href="https://instagram.com/preyal_ameta">
    <img align="left" alt="Preyal's Instagram" width="25px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
